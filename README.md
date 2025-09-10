@@ -48,7 +48,7 @@ Une calculatrice graphique moderne, simpliste et intuitive développée avec HTM
 ### Lancement Direct
 ```bash
 # Cloner le repository
-git clone https://github.com/votre-repo/deltio.git
+git clone https://github.com/votre-repo/delta.git
 
 # Naviguer dans le dossier
 cd DELTA
@@ -124,7 +124,7 @@ exécuter Delta Setup 1.0.0.exe
 
 ### Structure des Fichiers
 ```
-deltio/
+delta/
 ├── index.html          # Interface principale
 ├── math.js            # Logique mathématique et rendu
 ├── styles/
@@ -166,26 +166,6 @@ deltio/
 - Calculs numériques uniquement (pas de calcul symbolique)
 - Précision limitée pour les fonctions extrêmes
 - Pas de support pour les fonctions à plusieurs variables
-
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! Voici comment contribuer :
-
-1. **Fork** le projet
-2. **Créer** une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. **Commiter** vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** vers la branche (`git push origin feature/AmazingFeature`)
-5. **Ouvrir** une Pull Request
-
-### Améliorations Suggérées
-- [ ] Calcul symbolique des dérivées
-- [ ] Export des graphiques en PNG/SVG
-- [ ] Sauvegarde/chargement de sessions
-- [ ] Support des fonctions paramétriques
-- [ ] Mode sombre/clair
-- [ ] Raccourcis clavier
-- [ ] Tracé de tangentes
-- [ ] Calcul d'aires sous la courbe
 
 ## 📄 Licence
 
