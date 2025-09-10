@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="img/image.png">
+    <link href="styles/styles.css" rel="stylesheet">
+    <title>DELTΔ</title>
+</head>
+<script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="math.js" type="text/javascript" defer></script>
+
+<body>
+    <div class="header">
+        <div class="logo">DELTΔ</div>
+        <div class="header-icons">
+            <div class="derivate position-relative header-icon">
+                <img src="img/der_gray.png">
+                <div>dérivée</div>
+            </div>
+            <div class="primitive position-relative header-icon">
+                <img src="img/prim_gray.png">
+                <div>primitive</div>
+            </div>
+            <div class="inverse position-relative header-icon">
+                <img src="img/inv_gray.png">
+                <div>inverse</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-container">
+        <div class="sidebar">
+            <div class="section-title">Equations</div>
+            <div class="section">
+                <input type="text" class="equation-input" id="equationInput" placeholder="Saisir une fonction" value="">
+                <button class="add-button" onclick="addFunction()">Afficher</button>
+            </div>
+
+            <div class="section-title">Fonctions</div>
+            <div class="section">
+                <div class="function-list" id="functionList"></div>
+            </div>
+        </div>
+
+        <div class="canvas-container">
+            <canvas id="canvas"></canvas>
+
+            <div class="canvas-controls">
+                <button class="control-btn" onclick="zoomIn()">Zoom +</button>
+                <button class="control-btn" onclick="zoomOut()">Zoom -</button>
+                <button class="control-btn" onclick="resetView()">Reset</button>
+                <button class="control-btn" onclick="toggleGrid()">Grille</button>
+                <button class="control-btn" onclick="clearAll()">Effacer</button>
+            </div>
+
+            <div class="zoom-info" id="zoomInfo">
+                Zoom: 1.0x | Grille: ON
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
