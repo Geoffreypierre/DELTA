@@ -1,6 +1,6 @@
 # DELTΔ" - Calculatrice Graphique Interactive
 
-Une calculatrice graphique moderne, simpliste et intuitive développée avec HTML5, CSS3 et JavaScript, conçue pour visualiser et analyser des fonctions mathématiques en temps réel.
+Une calculatrice graphique moderne, simpliste et intuitive développée avec HTML5, CSS3 et JavaScript le tout appartenant à un projet ElectronJS, conçue pour visualiser et analyser des fonctions mathématiques en temps réel.
 
 <img width="593" height="496" alt="image" src="https://github.com/user-attachments/assets/1475bc7b-633e-4b2b-a431-cfee02246366" />
 
