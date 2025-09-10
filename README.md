@@ -12,6 +12,8 @@ Une calculatrice graphique moderne, simpliste et intuitive développée avec HTM
 - **Support des fonctions discontinues** : Gestion intelligente des asymptotes et points de discontinuité
 - **Couleurs distinctes** : Attribution automatique de couleurs pour différencier les fonctions
 
+  <img width="888" height="594" alt="image" src="https://github.com/user-attachments/assets/d12bb2d3-9269-465d-b3d5-2aeef7e842aa" />
+
 ### 🧮 Opérations Mathématiques Avancées
 - **Dérivation numérique** : Calcul et affichage de la dérivée de n'importe quelle fonction
 - **Intégration numérique** : Calcul de primitives avec méthode d'intégration numérique
