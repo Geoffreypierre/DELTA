@@ -13,7 +13,7 @@ Une calculatrice graphique moderne, simpliste et intuitive développée avec HTM
 - **Couleurs distinctes** : Attribution automatique de couleurs pour différencier les fonctions
 
 ### 🧮 Opérations Mathématiques Avancées
-- **Dérivation numérique** : Calcul et affichage de la dérivée de n'importe quelle fonction
+- **Dérivation numérique** : Calcul et affichage de la dérivée de n'importe quelle fonction (par calcul du taux d'accroissement)
 
 <img width="555" height="372" alt="image" src="https://github.com/user-attachments/assets/61b93c34-9e92-441b-9891-97023e964f34" />
   
