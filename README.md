@@ -2,7 +2,7 @@
 
 Une calculatrice graphique moderne, simpliste et intuitive développée avec HTML5, CSS3 et JavaScript, conçue pour visualiser et analyser des fonctions mathématiques en temps réel.
 
-<img width="1186" height="793" alt="image" src="https://github.com/user-attachments/assets/1475bc7b-633e-4b2b-a431-cfee02246366" />
+<img width="593" height="496" alt="image" src="https://github.com/user-attachments/assets/1475bc7b-633e-4b2b-a431-cfee02246366" />
 
 ## ✨ Fonctionnalités
 
