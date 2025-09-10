@@ -16,8 +16,17 @@ Une calculatrice graphique moderne, simpliste et intuitive développée avec HTM
 
 ### 🧮 Opérations Mathématiques Avancées
 - **Dérivation numérique** : Calcul et affichage de la dérivée de n'importe quelle fonction
+
+<img width="555" height="372" alt="image" src="https://github.com/user-attachments/assets/61b93c34-9e92-441b-9891-97023e964f34" />
+  
 - **Intégration numérique** : Calcul de primitives avec méthode d'intégration numérique
+
+<img width="555" height="372" alt="image" src="https://github.com/user-attachments/assets/ea22f6e1-16a6-48c5-be5d-ee607f2a11e5" />
+
 - **Fonction inverse** : Calcul de l'inverse multiplicatif (1/f(x))
+
+<img width="555" height="372" alt="image" src="https://github.com/user-attachments/assets/e0202080-823c-4657-99f1-08d3dea29ffb" />
+
 - **Validation automatique** : Vérification de la validité des opérations
 
 ### 🎮 Interface Interactive
